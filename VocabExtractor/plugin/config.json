@@ -1,0 +1,9 @@
+{
+  "expressionField": "Expression",
+  "vocabField": "Vocab",
+  "force_update": "no",
+  "update_separator": "<br>",
+  "keybinding": "",
+  "error_tag": "FetchError",
+  "max_threads": 4
+}

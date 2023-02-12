@@ -1,0 +1,16 @@
+{
+  "kanji_etym_field": "Okjiten_Kanji_Etym",
+  "dong_kanji_etym_field": "Dong_Kanji_Etym",
+  "expression_field": "Reading",
+  "vocab_field": "Vocab",
+  "force_update": false,
+  "update_separator": "<br>",
+  "keybinding": "",
+  "error_tag": "KanjiEtymError",
+  "media_debug_folder": "D:\\TeMP\\1_!_!_!_TEMP\\Z_trash_Anki_media",
+  "kanji_cache_path": "D:\\Libraries\\Documents\\MEGA\\MEGAsync\\000_JAP",
+  "okjiten_cache_filename": "okjiten_cache.json",
+  "cross_profile_name": "subs2srsss",
+  "kanjidic_folder": "",
+  "kanjidic_filename": "kanji_bank_complete-dict-format.json"
+}
